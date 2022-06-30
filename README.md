@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu me chamo Mateus Alves</h1>
 <h3 align="center">Estudante de ADS do ETE PORTO DIGITAL, estudando atualmente Front-end, mas com foco em ser Full-stack!</h3>
 
-- 🌱 Estou aprendendo **Front-end(HTML,CSS,JS)**
+- 🌱 Estou aprendendo **Front-end(HTML, CSS, JS, REACT)**
 
 - 👯 Estou procurando colaborar com **desenvolvimento Full-stack**
 
