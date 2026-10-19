@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Mateus%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Fintech%20%26%20Web3&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Mateus%20Alves&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Fintech%20e%20Web3&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/Mateusalves11">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=React+19+%2B+Next.js+%2B+TypeScript;Java+e+Kotlin+com+Spring+Boot;Produtos+para+o+mercado+financeiro+regulado;Blockchain+e+tokeniza%C3%A7%C3%A3o+de+ativos" alt="Typing SVG" />
